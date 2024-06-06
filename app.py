@@ -78,6 +78,7 @@ pyautogui.click(1000, 500, duration=0.5)
 
 # VALIDAR QUE BAIXOU
 
+
 # RECARREGAR A PAGINA
 # pyautogui.click(1000, 500, duration=1)
 # pyautogui.hotkey('ctrl', 'r')
